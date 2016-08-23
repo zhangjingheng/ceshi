@@ -14,5 +14,6 @@ public static void main(String[] args) {
 		System.out.println("555555");
 		System.out.println("8888");
 		System.out.println("66666");
+		System.out.println("7777");
 }
 }
