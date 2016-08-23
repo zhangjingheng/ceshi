@@ -12,5 +12,6 @@ public static void main(String[] args) {
 	System.out.println("22222");
 		System.out.println("3333333s");
 		System.out.println("555555");
+		System.out.println("8888");
 }
 }
