@@ -8,5 +8,6 @@ package com.sg.test;
 public class Test {
 public static void main(String[] args) {
 	System.out.println(12315);
+	System.out.println("1sda15");
 }
 }
